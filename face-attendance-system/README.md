@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Face Attendance System
 
 Full-stack classroom attendance software with:
@@ -90,7 +89,4 @@ If that file is not present, the system falls back to OpenCV Haar face detection
 - Face recognition quality improves when you capture clear front, left, right, and slightly tilted face angles.
 - `face_recognition` may need CMake/build tools on some systems during install.
 - For production, change the JWT secret with environment variable `ATTENDANCE_SECRET_KEY`.
-=======
-# full-stack-development
-This repo contains all full-stack related codes.
->>>>>>> 6ea0e4a14be903fafefd80117a0befd3a18c9440
+
