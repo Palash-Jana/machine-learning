@@ -1,5 +1,7 @@
 # Face Attendance System
 
+## This is Created by Palash Jana
+
 Full-stack classroom attendance software with:
 
 - React web interface with `Attendance Mode` and `Admin Mode`
@@ -89,4 +91,8 @@ If that file is not present, the system falls back to OpenCV Haar face detection
 - Face recognition quality improves when you capture clear front, left, right, and slightly tilted face angles.
 - `face_recognition` may need CMake/build tools on some systems during install.
 - For production, change the JWT secret with environment variable `ATTENDANCE_SECRET_KEY`.
+
+
+# Creator: Palash Jana
+# Creator GitHub: https://github.com/Palash-Jana
 
