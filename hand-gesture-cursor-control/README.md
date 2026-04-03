@@ -114,3 +114,6 @@ If that file is missing, the script automatically falls back to MediaPipe-only t
 ## License
 
 You can add your preferred license for this project before publishing it.
+
+## Creator: Palash Jana
+## Creator GitHub: https://github.com/Palash-Jana
