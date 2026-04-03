@@ -1,4 +1,5 @@
 # YOLO Hand Cursor Controller
+## This Project is created by Palash Jana
 
 Control your mouse cursor with hand and finger gestures using Python, OpenCV, YOLO, and MediaPipe.
 
