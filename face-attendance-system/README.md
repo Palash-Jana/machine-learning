@@ -1,6 +1,6 @@
 # Face Attendance System
 
-## This is Created by Palash Jana
+This is Created by Palash Jana
 
 Full-stack classroom attendance software with:
 
@@ -93,6 +93,6 @@ If that file is not present, the system falls back to OpenCV Haar face detection
 - For production, change the JWT secret with environment variable `ATTENDANCE_SECRET_KEY`.
 
 
-# Creator: Palash Jana
-# Creator GitHub: https://github.com/Palash-Jana
+Creator: Palash Jana
+Creator GitHub: https://github.com/Palash-Jana
 
