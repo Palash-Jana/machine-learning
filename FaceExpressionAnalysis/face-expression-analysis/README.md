@@ -1,5 +1,5 @@
 # Face Expression Analysis
-# This project is created by Palash Jana
+This project is created by Palash Jana
 
 A simple machine learning project that detects facial expressions from a webcam feed or an uploaded image using Python, OpenCV, and the `fer` emotion recognition library.
 
@@ -119,5 +119,5 @@ git push
 
 Use this code freely in your personal, academic, or portfolio projects.
 
-## Creator: Palash Jana
-## Creator GitHUb: https://github.com/Palash-Jana
+Creator: Palash Jana
+Creator GitHUb: https://github.com/Palash-Jana
